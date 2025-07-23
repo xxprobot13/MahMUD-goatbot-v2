@@ -43,3 +43,106 @@ If you find any issues, please report them!
 
 
 🔹Ariyan Mahmud
+
+
+</style>
+    <title> 🎀 Mah MUD </title>
+</head>
+
+<body>
+    <div class="app">
+        <div class="card mg-10">
+            <div class="card__title">
+                <div class="card__title--img">
+                    <img src="https://i.imgur.com/GGvARUp.jpeg" alt="">
+                </div>
+                <div class="card__title--name">
+                    <h1>Mah M UD</h1>
+                    <div class="veri__check">
+                        <i class="fas fa-check"></i>
+                    </div>
+                </div>
+                <div class="card__title--description">
+                    <p></br> ⁓ MY STORY IN A FRAME ⁓ 
+                </br>🎀🦋 </br></p>
+                </div>
+            </div>
+            <div class="card__body mt-10">
+                <div class="row">
+                    <div class="col col-lg-3 mt-10">
+                        <div class="card__item">
+                            <a href="https://www.facebook.com/mahmud.x07" class="card__link">
+                                <div class="link__icon">
+                                    <i class="fab fa-facebook"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                  <div class="col col-lg-3 mt-10">
+                      <div class="card__item">
+                          <a href="https://www.facebook.com/mahmud.x07" class="card__link">
+                              <div class="link__icon">
+                                  <i class="fab fa-facebook-messenger"></i>
+                              </div>
+                          </a>
+                      </div>
+                  </div>
+                    <div class="col col-lg-3 mt-10">
+                        <div class="card__item">
+                            <a href="https://wa.me/+88" class="card__link">
+                                <div class="link__icon">
+                                    <i class="fab fa-whatsapp"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col col-lg-3 mt-10">
+                        <div class="card__item">
+                            <a href="https://www.instagram.com" class="card__link">
+                                <div class="link__icon">
+                                    <i class="fab fa-instagram"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                        <div class="link_docs_icon">
+                            <a href="/docs" class="card__link">
+                                <div class="link_docs_text">API DOCS</div>
+                            </a>
+                    </div>
+
+                    <div class="link_docs_icon">
+                      <a href="/api-docs" class="card__link">
+                          <div class="link_docs_text">API DOCS-V2</div>
+                      </a>
+              </div>
+
+                </div>
+            </div>
+
+            <div class="toggle toggle__back">
+                <i class="fas fa-arrow-left"></i>
+            </div>
+
+            <div class="toggle toggle__theme">
+                <i class="fas fa-moon"></i>
+            </div>
+
+            <div class="card__footer mt-10">
+                <div class="footer__item">
+                    <title>
+                        <i class="fas fa-heart"></i>
+                        4.5M
+                    </title>
+                </div>
+                <div class="footer__item">
+                    <title>
+                        <i class="fa fa-comment"></i>
+                        1.7M
+                    </title>
+                </div>
+                <div class="footer__item">
+                    <title>
+                        <i class="fa fa-share"></i>
+                        2.2M
