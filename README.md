@@ -11,12 +11,15 @@
   <img alt="size" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
 </p>
 
+
+
+
 *Maintained by:** MahMUD  
 If you find any issues, please report them!
 
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">MahMUD</a></h3></div>
 
-link" target="_blank" rel="noopener noreferrer">
+<p align="center"><a href="fb link" target="_blank" rel="noopener noreferrer">
   <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
