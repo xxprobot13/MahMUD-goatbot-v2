@@ -15,6 +15,7 @@
 
 This goat bot real author Ntkhang btw this fork template 
 *Maintained by:* MahMUD  
+
 If you find any issues, please report them!
 
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">MahMUD</a></h3></div>
@@ -31,7 +32,7 @@ If you find any issues, please report them!
 
 <div align="center">
 			<h3>Gmail:
-			<a href="mahmudx007@gmail.com" style="color: green;">@loading</a>
+			<a href="mahmudx077@gmail.com" style="color: green;">@mahmudx077@gmail.com</a>
 				<br>
 	𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">MahMUD</a></h3></div>
 
