@@ -32,7 +32,7 @@ If you find any issues, please report them!
 
 <div align="center">
 			<h3>Gmail:
-			<a href="mahmudx077@gmail.com" style="color: green;">@mahmudx077@gmail.com</a>
+			<a href="mahmudx077@gmail.com" style="color: green;">MahMUDx7 </a>
 				<br>
 	𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">MahMUD</a></h3></div>
 
