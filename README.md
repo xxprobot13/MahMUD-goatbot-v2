@@ -23,7 +23,7 @@ This goat bot real author Ntkhang btw this fork template
 If you find any issues, please report them!
 
 
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">MahMUD</a></h3></div>
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">Mah M UD</a></h3></div>
 
 <p align="center"><a href="fb link" target="_blank" rel="noopener noreferrer">
   <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;"></a>
