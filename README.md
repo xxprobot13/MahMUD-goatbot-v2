@@ -17,7 +17,7 @@
 
 
 
-The original author of this GoatBot is Ntkhang. This fork is maintained by: MahMUD.  
+The original author of this Bot is Ntkhang. Btw This fork is maintained by: MahMUD  
 
 If you find any issues, please report them!
 
