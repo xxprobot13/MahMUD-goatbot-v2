@@ -13,8 +13,8 @@
 
 
 
-this goat bot real owner Ntkhang btw this fork template 
-*Maintained by:** MahMUD  
+This goat bot real author Ntkhang btw this fork template 
+*Maintained by:* MahMUD  
 If you find any issues, please report them!
 
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">MahMUD</a></h3></div>
@@ -30,8 +30,8 @@ If you find any issues, please report them!
  
 
 <div align="center">
-			<h3>𝐑𝐞𝐩𝐥𝐢𝐭:
-			<a href="naii" style="color: green;">@loading</a>
+			<h3>Gmail:
+			<a href="mahmudx007@gmail.com" style="color: green;">@loading</a>
 				<br>
 	𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">MahMUD</a></h3></div>
 
