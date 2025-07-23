@@ -22,23 +22,14 @@ This goat bot real author Ntkhang btw this fork template
 
 If you find any issues, please report them!
 
-<!-- Contact Info -->
-<h3 align="center">
-  𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">MahMUD</a><br>
-  𝗪𝐡𝐚𝐭𝐬𝐀𝐩𝐩: <a href="https://wa.me/8801700000000" style="color: black;">Chat on WhatsApp</a><br>
-  𝐆𝐦𝐚𝐢𝐥: <a href="mailto:mahmudx077@gmail.com" style="color: black;">mahmudx077@gmail.com</a>
-</h3>
 
-<!-- Profile Image -->
-<p align="center">
-  <a href="https://www.facebook.com/mahmud.x07" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;">
-  </a>
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">MahMUD</a></h3></div>
+
+<p align="center"><a href="fb link" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;"></a>
 </p>
-
-<!-- Signature -->
 <h5 align="center">
-  > 🎀 Mah MUD
+>🎀 Mah MUD
 </h5>
 
  
