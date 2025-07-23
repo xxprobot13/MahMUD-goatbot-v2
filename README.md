@@ -17,8 +17,7 @@
 
 
 
-This goat bot real author Ntkhang btw this fork template 
-*Maintained by:* MahMUD  
+The original author of this GoatBot is Ntkhang. This fork is maintained by: MahMUD.  
 
 If you find any issues, please report them!
 
