@@ -7,8 +7,8 @@ const baseApiUrl = async () => {
 
 module.exports = {
   config: {
-    name: "copuledp",
-    aliases: ["cdp"],
+    name: "copuledp2",
+    aliases: ["cdp2"],
     version: "1.7",
     author: "MahMUD",
     countDown: 10,
