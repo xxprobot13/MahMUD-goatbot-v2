@@ -1,21 +1,110 @@
-@author NTKhang
-! The source code is written by NTKhang, please don't change the author's name everywhere (Please be a smart user and respect the author because they have been generous without asking for any benefits)
-! Official source code: https://github.com/ntkhang03/Goat-Bot-V2
-! If you do not download the source code from the above address, you are using an unknown version and at risk of having your account hacked
-Thank you for using
-
-
-English:
-! Please do not change the below code, it is very important for the project.
-It is my motivation to maintain and develop the project for free.
-! If you change it, you will be banned forever
-! Please be a smart user and respect the author because they have been generous without asking for any benefits
-Thank you for using
-
-
-Vietnamese:
-! Vui lòng không thay đổi mã bên dưới, nó rất quan trọng đối với dự án.
-Nó là động lực để tôi duy trì và phát triển dự án miễn phí.
-! Nếu thay đổi nó, bạn sẽ bị cấm vĩnh viễn
-! Hãy là một người dùng thông minh và tôn trọng tác giả vì họ đã cống hiền mà không đòi hỏi bất kỳ lợi ích nào
-Cảm ơn bạn đã sử dụng
+[
+    {
+        "key": "datr",
+        "value": "FJOcaHhHbXxn3E1NFHhHjQcG",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.092Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "sb",
+        "value": "FJOcaOOk9q7_1EvU6OmpUuKL",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.8125",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "wd",
+        "value": "384x854",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61577854990568",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "xs",
+        "value": "36%3AmT608723qLQi3g%3A2%3A1755091843%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "fr",
+        "value": "0kydWH8dEX27KaRcC.AWebZ8v5_XDeBIQoKEkyWhVe-UZek4dx9kj02QzSVq21qhXjFes.BonJMU..AAA.0.0.BonJPb.AWfPWD8ZVdSfENYvE_QJFIA0VAk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "pas",
+        "value": "61577854990568%3ABa1E8IGa8o",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2892%3Btimestamp%3A1755091931",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101731299%3BT%3A29251532",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B697x384x2.8125",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-13T13:34:49.093Z",
+        "lastAccessed": "2025-08-13T13:34:49.093Z"
+    }
+]
